@@ -3,10 +3,10 @@
 - [X] Added dependency for TestNG in pom.xml
 
      <dependency>
-	 <groupId>org.testng</groupId>
-         <artifactId>testng</artifactId>
-         <version>6.14.3</version>
-         <scope>test</scope>
+     <groupId>org.testng</groupId>
+     <artifactId>testng</artifactId>
+     <version>6.14.3</version>
+     <scope>test</scope>
      </dependency>
       
       
