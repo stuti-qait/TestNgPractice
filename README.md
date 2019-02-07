@@ -8,8 +8,6 @@
      <version>6.14.3</version>
      <scope>test</scope>
      </dependency>
-      
-      
 
 - [X] created a class named *ConsLetters* for main logic
 - [X] created a class named *TestConsLetters* for testing the logic made above (using annotations)
