@@ -2,11 +2,11 @@
 - [X] created a maven project
 - [X] Added dependency for TestNG in pom.xml
 
-    `<dependency>
-    ` <groupId>org.testng</groupId>
-      `<artifactId>testng</artifactId>
-      `<version>6.14.3</version>
-     `<scope>test</scope>
+    `<dependency>`
+    ` <groupId>org.testng</groupId>`
+      `<artifactId>testng</artifactId>`
+      `<version>6.14.3</version>`
+     `<scope>test</scope>`
     `</dependency>`
 
 - [X] created a class named *ConsLetters* for main logic
